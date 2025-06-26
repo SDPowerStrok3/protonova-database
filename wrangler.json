@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "protonova-database",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "71d17fa4-29bc-4343-bf2d-7d8a68c5ce3f",
+      "database_name": "d1-protonova"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
